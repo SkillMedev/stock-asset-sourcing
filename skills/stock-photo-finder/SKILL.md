@@ -43,12 +43,14 @@ decision path.
 
 - **Free, general-purpose, fast** -> **Unsplash, Pexels, Pixabay.** Huge free
   catalogs, generous licenses, no cost. Trade-off: the popular shots are heavily
-  reused, so they read as "stock". Best for blogs, side projects, MVPs, and
-  backgrounds. Pexels and Pixabay also carry free stock *video*.
+  reused — a first-page result on these platforms can have hundreds of thousands
+  of downloads, which is exactly why it reads as "stock". Best for blogs, side
+  projects, MVPs, and backgrounds. Pexels and Pixabay also carry free stock *video*.
 - **Curated / authentic / premium-but-affordable** -> **Stocksy, Stills, Death to
   Stock.** Smaller, art-directed collections that dodge the cliche look. Reach
   here when the free libraries feel generic or the brand needs to look considered.
-  (Verify the current license tier on the provider - see image-license-rights.)
+  (Verify the license tier on the provider before relying on it - see
+  image-license-rights.)
 - **Broadest selection, paid, releases handled** -> **Adobe Stock, Shutterstock,
   iStock / Getty RF.** When you need a specific, hard-to-find shot and want
   model/property releases already in place for commercial use. Subscriptions or
@@ -77,7 +79,9 @@ Search like a photo editor, not like Google.
   people, age, and editorial vs commercial toggles.
 - **Search synonyms and adjacent scenes.** If "team meeting" is all cliche,
   try "whiteboard sketching", "two people reviewing a screen", "office hallway".
-  The strongest shot is often one query sideways from the obvious one.
+  The strongest shot is often one query sideways from the obvious one. Run at
+  least 3 query variants before settling, and scroll past the first page or two
+  of results on free libraries — that is where the least-reused shots live.
 - **Match orientation to placement up front** - a wide hero needs landscape with
   negative space on one side for text; a phone splash needs portrait. Filter for
   it rather than cropping a square later.
@@ -86,8 +90,10 @@ Search like a photo editor, not like Google.
 
 For each shortlisted image, check, in order:
 
-1. **Resolution / aspect fits the placement** at full size (heroes need large
-   originals; avoid upscaling).
+1. **Resolution / aspect fits the placement** at full size. A full-width hero
+   needs an original of roughly 2400px or more on the long edge (about 2x the
+   rendered slot for retina screens); social posts and thumbnails need at least
+   ~1080px. Avoid upscaling.
 2. **Licensing is viable for the use** - flag editorial-only and
    release-required shots and pass them to **image-license-rights** before
    committing.
@@ -98,6 +104,14 @@ For each shortlisted image, check, in order:
    "teamwork"? If the set looks generic, hand the finalists to
    **visual-asset-curation** to tighten and de-cliche.
 
+## Deliverable
+
+Produce a shortlist of 3-8 candidate images, each with: the source URL, the
+library and license type, resolution and orientation, and any editorial-only or
+release-required flag — plus the one-line brief and the queries that produced
+the set, so the search can be re-run or extended. Hand the shortlist to
+image-license-rights before anything ships commercially.
+
 ## Quality bar
 
 - A written brief existed before the first search.
@@ -106,3 +120,22 @@ For each shortlisted image, check, in order:
 - At least one "sideways" query was tried beyond the obvious keyword.
 - Every finalist has its source URL recorded for the license check.
 - Editorial-only and release-required images are flagged, not silently shipped.
+
+## Do NOT
+
+- Do not grab the top first-page result on a free library — the most-downloaded
+  shots are the most reused, and readers have seen them on ten other sites.
+- Do not search abstract nouns ("success", "innovation", "growth") — they return
+  the platform's worst cliches; translate the concept into a photographable scene
+  first.
+- Do not use editorial-archive images (Getty editorial, AP, Reuters) in ads,
+  landing pages, or anything commercial — editorial-use-only is a legal line,
+  not a suggestion.
+- Do not crop your way out of a wrong orientation — a square chopped into a wide
+  hero loses composition and resolution; filter for the right orientation at
+  search time.
+- Do not assume "free" means release-free — free libraries frequently host
+  images of identifiable people and logos with no model or property release
+  attached.
+- Do not ship a finalist without its source URL and license type recorded — an
+  untraceable image is an unlicensable image.

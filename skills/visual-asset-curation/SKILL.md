@@ -35,7 +35,9 @@ replace:
 Decide the rules the set must obey, so selection has a target:
 
 - **Palette** - the brand's colors plus the temperature you will pull everything
-  toward (warm/neutral/cool).
+  toward (warm/neutral/cool). Hold the set within roughly a 500K color-temperature
+  band; a 3200K tungsten interior next to a 6500K overcast exterior is the single
+  most common "grabbed from anywhere" tell.
 - **Light key** - bright and airy (high-key) vs moody and shadowed (low-key).
   Pick one and hold it.
 - **Tone / register** - candid and documentary vs polished and staged. Modern
@@ -50,6 +52,8 @@ Decide the rules the set must obey, so selection has a target:
 Judge images **as a set, never one at a time**. A great photo that breaks the
 system hurts more than a good photo that fits it.
 
+- Start from a shortlist of 3-5 candidates per final slot; if you cannot cut
+  at least two-thirds of what you gathered, you gathered too narrowly.
 - Lay candidates out together at the size they will appear.
 - Cut anything whose lighting, color, or tone fights the others, even if it is
   the "best" single shot.
@@ -73,7 +77,9 @@ system hurts more than a good photo that fits it.
 The winning image must work where it lives, not just in isolation:
 
 - **Text overlay** needs negative space or a calm region; check contrast for
-  legibility, and plan an overlay/scrim if needed. Respect platform safe areas.
+  legibility - overlay text must clear the WCAG 4.5:1 contrast ratio against the
+  region behind it (3:1 for large display type), and plan an overlay/scrim if
+  the image alone cannot deliver it. Respect platform safe areas.
 - **Focal point** should sit on a third, not dead center, and not where UI or
   text will cover it.
 - **Orientation/aspect** must match the slot - re-crop to the exact ratio rather
@@ -87,6 +93,36 @@ and black levels, and apply the same subtle grain or fade. A unified grade is
 often what separates a brand-grade set from a stock dump - and it is cheaper than
 re-shooting. (Stay within the license: edits are allowed, but re-selling the
 edited file as stock is not - see **image-license-rights**.)
+
+## Deliverable
+
+Produce a curation package containing:
+
+1. **The visual system** - a short written spec of palette/temperature, light
+   key, tone, subject distance/angle, and texture rules the set obeys.
+2. **The final picks** - each image mapped to its exact placement (slot, aspect
+   ratio, crop notes, focal-point position), in display order.
+3. **The cut list** - what was rejected and the one-line reason (cliche tell,
+   system violation, weak placement fit), so the client learns the taste, not
+   just the answer.
+4. **Grade notes** - the unifying adjustments to apply (temperature target,
+   contrast/black-level match, shared grain), if the sources mismatched.
+
+## Do NOT
+
+- Do not judge images one at a time - a set of individually "best" photos with
+  clashing light and temperature reads cheaper than a consistent set of good ones.
+- Do not keep the strongest single image when it breaks the system; the outlier
+  is what makes the whole page look accidental.
+- Do not letterbox or squash to fit a slot - re-crop to the exact aspect and keep
+  the focal point inside the frame.
+- Do not place text over a busy region and fix it with a heavy black scrim; pick
+  an image with genuine negative space instead.
+- Do not "fix" a mismatched set with a heavy filter - a strong Instagram-style
+  look is itself a stock tell; the unifying grade should be light enough that no
+  single image looks graded.
+- Do not skip the system definition and curate by gut feel - without written
+  rules, every reviewer argues taste and the set drifts back to inconsistency.
 
 ## Quality bar
 
