@@ -9,7 +9,7 @@ Everything from "I need an image of X" to a cohesive, legally-clear set on the p
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/stock-asset-sourcing](https://skillme.dev/pack/stock-asset-sourcing) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/stock-asset-sourcing`
+- **With the skills CLI:** `npx skills add SkillMedev/stock-asset-sourcing`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
