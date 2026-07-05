@@ -15,8 +15,8 @@ Everything from "I need an image of X" to a cohesive, legally-clear set on the p
 ## Skills in this pack
 
 - **[Find the Right Stock Photo](skills/stock-photo-finder/SKILL.md)** — Source the right stock photograph for a brief by picking the best library and crafting the search.
-- **[Image License & Usage Rights](skills/image-license-rights/SKILL.md)** — Decides whether a specific image use is legally permitted, what the license obligates, and whether a model or property release is required — covering CC0 and Creative Commons variants, Unsplash/Pexels/Pixabay terms, royalty-free vs rights-managed, standard vs extended tiers, editorial-use-only, and AI-image caveats — and delivers a per-image license record.
-- **[Stock Photo APIs](skills/stock-photo-api/SKILL.md)** — Integrates the Unsplash, Pexels, and Pixabay APIs in code — auth, search endpoints, rate limits, attribution, hotlinking versus caching rules, and the compliance obligations that get apps deactivated when skipped.
+- **[Image License & Usage Rights](skills/image-license-rights/SKILL.md)** — Decides whether a specific image use is legally permitted, what the license obligates, and whether a model or property release is required - covering CC0 and Creative Commons variants, Unsplash/Pexels/Pixabay terms, royalty-free vs rights-managed, standard vs extended tiers, editorial-use-only, and AI-image caveats - and delivers a per-image license record.
+- **[Stock Photo APIs](skills/stock-photo-api/SKILL.md)** — Integrates the Unsplash, Pexels, and Pixabay APIs in code - auth, search endpoints, rate limits, attribution, hotlinking versus caching rules, and the compliance obligations that get apps deactivated when skipped.
 - **[Visual Asset Curation](skills/visual-asset-curation/SKILL.md)** — Art-direct a set of stock images so they look intentional and on-brand instead of like stock, and choose and sequence the final picks.
 
 ## License
